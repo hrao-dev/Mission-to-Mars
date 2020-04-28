@@ -1,6 +1,7 @@
 # Web Scraping - Mission to Mars
-
  A web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+
+<img src="https://github.com/the-Coding-Boot-Camp-at-UT/UT-MCC-DATA-PT-01-2020-U-C/raw/master/homework-instructions/12-Web-Scraping-and-Document-Databases/Instructions/Images/mission_to_mars.png" alt="Mars Mission">
 
 ## Step 1 - Scraping
   Initial scraping is done using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
