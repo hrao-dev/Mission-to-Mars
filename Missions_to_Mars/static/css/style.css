@@ -1,0 +1,15 @@
+.jumbotron { 
+  background-image: url(https://thumbs-prod.si-cdn.com/wu-mI9N2cNYLsPEz3Cvou7H-g60=/fit-in/1600x0/https://public-media.si-cdn.com/filer/00/ac/00acaa36-3745-43c0-82c2-b78b4b0002d0/14h_fm2017_opener_torpor-11_live.jpg);>
+  background-repeat: no-repeat;  
+  background-size: cover;
+}
+.key-img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  margin auto;
+}
+.grid-card {
+  display: block;
+  margin auto;
+}
