@@ -19,4 +19,4 @@
   </ul>
   
 ## Step 2 - MongoDB and Flask Application
-MongoDB is used in conjunction with Flask templating to create a new HTML page that displays all of the information colllected above.
+MongoDB is used in conjunction with Flask templating to create a new HTML page that displays all of the information collected above.
