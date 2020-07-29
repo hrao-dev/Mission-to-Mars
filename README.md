@@ -15,7 +15,7 @@
   <li> Mars Facts
         Facts about planet mars such as  Diameter, Mass, etc. are collected from the Mars Facts webpage using Pandas.</li>
   <li> Mars Hemispheres
-        High resolution images and their corresponding titles for each of Mars's hemispheres are collected from  the USGS             Astrogeology site in a Python dictionary.</li>
+        High resolution images and their corresponding titles for each of Mars's hemispheres are collected from  the USGS Astrogeology site in a Python dictionary.</li>
   </ul>
   
 ## Step 2 - MongoDB and Flask Application
